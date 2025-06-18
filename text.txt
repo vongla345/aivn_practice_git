@@ -1,1 +1,2 @@
-Sample file --
+Second line in sample --
+Third line in sample
