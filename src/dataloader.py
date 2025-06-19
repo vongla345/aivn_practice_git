@@ -4,3 +4,6 @@ class Dataloader:
         
     def __call__(self):
         print(self.data)
+        
+    def add_child(self, child):
+        self.data.append(child)
